@@ -1,0 +1,110 @@
+ValueConsciousnessQ1,ValueConsciousnessQ2,ValueConsciousnessQ3,ComparisonQ1,ComparisonQ2,ComparisonQ3,ProductInformationQ1,ProductInformationQ2,ReturnPolicyQ1 ,ReturnPolicyQ2,ReturnPolicyQ3,ReviewsQ1,ReviewsQ2,ReviewsQ3,CartAbandonmentQ1,CartAbandonmentQ2,CartAbandonmentQ3,Age,Gender,Education ,DeviceUsed
+4,5,5,4,5,4,4,5,4,4,5,4,5,5,2,3,3,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop,Tablet"
+4,4,5,4,4,4,4,4,3,2,3,4,4,4,3,4,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,4,3,2,4,4,4,3,3,3,4,4,4,2,5,3,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+1,5,2,5,5,4,2,4,3,4,2,2,2,1,3,4,3,18-24,Male,Undergraduate,"Mobile phones,PC or Laptop"
+2,4,4,5,5,5,4,4,4,5,4,3,3,3,3,4,5,25-35,Female,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,5,4,4,4,5,5,5,4,4,4,4,5,5,5,5,18-24,Female,Postgraduate,Mobile phones
+4,4,4,4,5,4,5,4,3,3,4,3,4,4,3,4,4,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,5,5,5,4,5,5,5,5,3,5,4,3,3,3,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop,Tablet"
+4,4,5,5,4,4,4,4,3,2,3,4,3,5,4,4,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,5,5,5,3,4,5,5,5,3,3,3,3,4,3,3,3,18-24,Female,Undergraduate,"Mobile phones,PC or Laptop,Tablet"
+2,5,5,4,2,5,5,5,5,5,5,5,5,5,4,4,4,18-24,Female,Postgraduate,Mobile phones
+4,3,5,4,5,3,5,5,4,4,3,2,4,5,4,4,3,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,5,5,4,5,5,5,4,5,4,3,4,5,3,4,4,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,4,4,4,3,4,4,3,4,4,4,4,5,4,4,4,18-24,Male,Postgraduate,Mobile phones
+4,4,4,4,2,2,4,4,4,3,3,5,4,4,4,4,3,18-24,Female,Postgraduate,PC or Laptop
+4,4,4,4,4,3,3,4,3,3,3,4,3,5,4,4,4,18-24,Male,Postgraduate,Mobile phones
+5,5,4,4,5,1,3,2,2,1,1,5,4,5,2,5,2,18-24,Male,Postgraduate,Mobile phones
+2,4,3,3,4,3,3,4,3,3,4,3,4,2,4,3,2,18-24,Male,Postgraduate,Mobile phones
+5,4,4,4,5,1,5,4,3,5,5,3,4,4,3,3,2,35-60,Male,Postgraduate,"Mobile phones,PC or Laptop,Tablet"
+4,3,3,3,4,5,5,2,5,3,4,4,4,5,4,4,4,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,4,3,4,3,5,5,3,4,5,3,5,5,5,5,3,5,18-24,Female,Undergraduate,Mobile phones
+4,5,3,5,5,5,3,2,3,3,2,2,3,2,3,5,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+2,4,4,5,5,2,5,5,5,5,2,5,5,5,4,4,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,4,4,4,4,4,5,5,3,3,3,3,3,3,3,5,4,18-24,Male,Undergraduate,"Mobile phones,PC or Laptop"
+5,5,4,3,5,5,5,5,4,4,5,3,4,3,5,4,4,18-24,Male,Undergraduate,PC or Laptop
+4,5,3,4,3,4,3,4,3,4,3,3,2,2,4,4,4,18-24,Male,Undergraduate,Mobile phones
+5,5,5,4,3,5,4,4,5,4,5,4,4,5,3,4,5,25-35,Male,Postgraduate,Mobile phones
+4,4,4,4,1,5,5,5,4,1,1,1,1,4,3,4,4,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+2,4,3,3,4,5,1,2,4,4,4,4,4,4,3,3,3,18-24,Male,Postgraduate,PC or Laptop
+4,4,4,4,5,4,4,4,3,3,2,3,3,4,2,4,4,18-24,Female,Postgraduate,Mobile phones
+2,4,4,3,4,2,3,3,3,3,3,4,4,4,3,3,3,25-35,Male,Postgraduate,Mobile phones
+4,5,5,4,4,3,4,4,4,4,4,4,4,5,4,4,4,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,5,5,5,4,3,5,5,4,5,5,4,4,4,3,3,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,3,3,3,3,4,4,4,3,3,3,2,2,2,3,3,3,18-24,Female,Postgraduate,Mobile phones
+2,4,3,4,4,5,4,5,4,2,4,2,4,5,3,2,4,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,4,3,5,4,3,5,5,5,3,3,5,1,4,4,3,3,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,3,3,3,3,3,5,5,3,3,3,4,4,5,3,3,2,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop,Tablet"
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,4,5,4,5,5,5,5,5,5,5,4,5,5,5,4,25-35,Female,Postgraduate,"PC or Laptop,Tablet"
+4,4,4,4,5,3,2,3,4,2,3,3,2,1,4,4,4,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,4,5,5,3,4,3,3,4,3,4,4,5,3,4,4,25-35,Female,Postgraduate,Mobile phones
+5,5,5,3,5,5,5,5,5,5,5,2,2,2,3,3,3,25-35,Female,Postgraduate,Mobile phones
+5,5,5,5,4,5,5,5,4,5,4,4,4,1,3,4,4,18-24,Male,Undergraduate,"Mobile phones,PC or Laptop"
+2,4,4,4,3,5,4,4,4,4,3,3,4,4,2,4,3,18-24,Male,Postgraduate,PC or Laptop
+5,4,5,5,4,4,3,2,3,2,3,3,5,5,2,4,3,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,2,2,4,4,4,3,2,4,3,3,4,4,3,3,1,3,18-24,Male,Postgraduate,Mobile phones
+5,5,5,5,5,4,5,5,3,2,3,5,3,5,3,3,4,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,4,4,4,4,4,4,4,3,3,4,3,4,3,3,3,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,4,3,5,5,4,4,5,4,4,2,2,2,4,4,4,18-24,Female,Undergraduate,"Mobile phones,PC or Laptop"
+5,1,1,3,3,3,5,2,5,2,4,3,2,2,5,5,5,Below 18,Male,Postgraduate,"PC or Laptop,Tablet"
+4,3,5,4,4,4,5,5,5,4,4,4,5,4,3,3,4,25-35,Female,Postgraduate,PC or Laptop
+2,4,5,4,4,2,4,4,3,3,3,1,2,1,4,2,3,18-24,Prefer not to say,Postgraduate,Mobile phones
+4,2,4,4,4,3,5,3,5,4,5,4,4,5,3,5,4,18-24,Female,Undergraduate,PC or Laptop
+2,3,3,4,3,4,2,2,2,2,3,3,3,4,2,2,2,18-24,Male,Undergraduate,Mobile phones
+4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,25-35,Male,Postgraduate,Mobile phones
+2,3,3,4,4,5,5,4,5,5,5,5,5,5,5,5,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,5,4,5,5,5,5,5,5,5,4,5,5,5,5,5,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,5,5,5,5,5,5,5,3,3,5,5,5,4,4,4,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,5,5,4,4,5,5,4,4,4,3,4,4,4,3,4,18-24,Female,Undergraduate,Mobile phones
+4,4,4,4,5,5,3,3,3,4,4,4,4,5,4,4,4,18-24,Female,Postgraduate,PC or Laptop
+4,4,5,4,4,3,4,4,3,3,3,4,3,5,3,3,4,18-24,Male,Postgraduate,PC or Laptop
+4,4,5,4,3,2,5,4,2,1,1,3,4,5,3,3,4,18-24,Female,Postgraduate,Mobile phones
+2,3,5,4,3,4,4,2,3,3,4,3,4,3,2,3,2,18-24,Male,Postgraduate,Mobile phones
+4,4,4,4,4,4,4,4,3,3,2,4,3,3,3,3,3,35-60,Male,Undergraduate,"Mobile phones,PC or Laptop"
+4,5,5,1,3,3,4,4,4,3,2,4,3,3,2,3,3,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,25-35,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,5,5,5,5,5,5,4,4,5,5,5,5,5,4,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,5,5,5,5,5,4,5,4,5,5,5,5,5,5,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,4,5,3,4,4,2,3,5,3,4,5,5,5,2,4,18-24,Female,Postgraduate,Mobile phones
+4,3,5,4,4,5,3,4,4,4,3,3,4,4,3,3,3,18-24,Prefer not to say,Undergraduate,Mobile phones
+5,5,5,5,5,5,4,3,2,1,1,3,3,2,2,5,5,18-24,Male,Postgraduate,Mobile phones
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+2,4,4,4,4,4,3,5,5,4,4,3,3,3,3,4,3,18-24,Male,Postgraduate,Tablet
+4,4,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,35-60,Male,Postgraduate,Mobile phones
+4,5,5,5,5,5,5,4,5,5,4,5,4,5,5,4,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,18-24,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,5,4,3,2,3,3,4,2,2,3,2,3,2,2,3,3,25-35,Female,Postgraduate,Mobile phones
+5,4,5,5,3,5,1,5,4,4,5,3,5,5,3,4,4,25-35,Female,Postgraduate,Tablet
+4,5,5,5,5,4,5,4,3,2,2,5,4,5,4,4,4,18-24,Female,Undergraduate,Mobile phones
+5,4,4,4,3,3,4,2,4,5,4,4,4,4,3,3,4,25-35,Male,Undergraduate,Mobile phones
+5,5,5,5,4,5,5,4,5,4,4,5,4,5,5,4,5,25-35,Female,Postgraduate,PC or Laptop
+4,5,5,5,5,5,5,4,3,5,3,5,5,5,3,3,4,25-35,Female,Postgraduate,Mobile phones
+4,3,4,4,4,4,4,4,3,5,3,2,2,3,4,4,5,18-24,Female,Undergraduate,"Mobile phones,PC or Laptop"
+5,4,5,4,4,3,5,4,5,5,4,4,4,5,3,2,4,35-60,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,4,4,4,4,5,5,5,5,5,4,5,5,5,4,4,4,18-24,Male,Postgraduate,"Mobile phones,PC or Laptop"
+4,3,3,4,3,4,5,5,5,4,4,4,4,4,3,3,4,35-60,Male,Postgraduate,"Mobile phones,PC or Laptop"
+2,5,5,5,5,2,2,3,4,3,3,4,4,5,2,3,4,25-35,Male,Postgraduate,"Mobile phones,PC or Laptop,Tablet"
+5,5,5,5,4,5,5,5,5,5,5,3,2,3,4,3,4,25-35,Female,Postgraduate,Mobile phones
+5,4,2,3,5,5,4,4,3,2,2,5,2,5,2,3,4,18-24,Male,Undergraduate,Mobile phones
+4,5,5,5,5,3,5,5,4,4,5,5,4,5,3,3,3,18-24,Male,Undergraduate,"Mobile phones,PC or Laptop,Tablet"
+2,4,5,5,5,4,5,4,4,4,4,3,3,4,4,4,2,25-35,Male,Postgraduate,PC or Laptop
+5,5,5,5,5,5,4,5,5,5,5,5,3,5,3,3,4,25-35,Female,Undergraduate,Mobile phones
+4,5,4,5,3,5,5,5,5,5,5,5,3,5,4,4,4,35-60,Male,Undergraduate,"Mobile phones,PC or Laptop"
+5,5,5,3,3,4,5,4,5,5,3,4,4,5,3,3,3,35-60,Female,Postgraduate,Tablet
+4,5,5,4,5,5,4,4,4,4,4,3,3,3,3,3,2,25-35,Male,Undergraduate,PC or Laptop
+4,4,4,4,4,5,4,4,5,5,5,3,3,4,4,4,4,25-35,Female,Undergraduate,Mobile phones
+5,3,5,4,4,3,4,3,4,3,4,2,3,3,3,2,3,35-60,Male,Postgraduate,PC or Laptop
+2,3,3,3,4,4,3,3,3,3,3,4,4,5,3,3,3,35-60,Female,Postgraduate,PC or Laptop
+2,5,5,4,3,2,4,3,3,5,5,3,3,4,3,4,3,25-35,Female,Undergraduate,Mobile phones
+5,5,5,4,4,3,4,5,5,5,5,5,3,5,3,4,4,25-35,Female,Undergraduate,PC or Laptop
+5,4,5,5,5,5,5,5,4,4,3,5,5,5,2,3,4,25-35,Female,Postgraduate,Mobile phones
+4,5,5,3,4,2,3,3,4,3,3,3,1,2,3,4,4,35-60,Female,Postgraduate,"Mobile phones,PC or Laptop"
+4,4,4,3,4,4,2,2,4,3,3,3,4,4,4,4,4,25-35,Female,Ph.D,"Mobile phones,PC or Laptop"
+4,3,4,4,4,3,5,5,4,4,3,3,4,5,2,3,3,25-35,Female,Postgraduate,Mobile phones
+4,3,5,5,3,5,5,5,3,4,4,4,4,5,3,3,4,25-35,Female,Postgraduate,"Mobile phones,PC or Laptop"
+5,5,5,5,5,5,5,5,5,5,4,5,3,5,4,4,5,25-35,Female,Postgraduate,Mobile phones
+5,5,5,3,3,3,4,3,5,5,5,3,3,3,5,5,5,18-24,Male,High School,Mobile phones
+4,4,5,4,4,1,2,2,4,3,1,1,2,2,3,2,3,Above 60,Male,Postgraduate,Mobile phones
+4,5,5,5,4,1,2,2,4,4,3,3,3,2,3,1,2,35-60,Female,Undergraduate,Mobile phones
